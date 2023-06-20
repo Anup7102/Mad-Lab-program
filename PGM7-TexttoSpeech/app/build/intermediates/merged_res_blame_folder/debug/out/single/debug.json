@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxxhdpi_tts_icon_foreground.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxxhdpi/tts_icon_foreground.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-anydpi-v26_tts_icon.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-anydpi-v26/tts_icon.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxhdpi_tts_icon_round.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxhdpi/tts_icon_round.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxxhdpi_tts_icon.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxxhdpi/tts_icon.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-hdpi_tts_icon.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-hdpi/tts_icon.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-mdpi_tts_icon_foreground.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-mdpi/tts_icon_foreground.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xhdpi_tts_icon_round.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xhdpi/tts_icon_round.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xhdpi_tts_icon.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xhdpi/tts_icon.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-hdpi_tts_icon_foreground.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-hdpi/tts_icon_foreground.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxxhdpi_tts_icon_round.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxxhdpi/tts_icon_round.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xhdpi_tts_icon_foreground.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xhdpi/tts_icon_foreground.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-mdpi_tts_icon_round.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-mdpi/tts_icon_round.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxhdpi_tts_icon.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxhdpi/tts_icon.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-mdpi_tts_icon.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-mdpi/tts_icon.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-anydpi-v26_tts_icon_round.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-anydpi-v26/tts_icon_round.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-hdpi_tts_icon_round.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-hdpi/tts_icon_round.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.divyansh.texttospeech.app-pngs-20:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/xml_backup_rules.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxhdpi_tts_icon_foreground.png.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxhdpi/tts_icon_foreground.png"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/drawable_custom_button.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/drawable/custom_button.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/layout_activity_main.xml.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.divyansh.texttospeech.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.divyansh.texttospeech.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
